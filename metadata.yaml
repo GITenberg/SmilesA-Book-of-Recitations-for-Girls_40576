@@ -1,0 +1,25 @@
+_repo: SmilesA-Book-of-Recitations-for-Girls_40576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Alice Lewis
+    gutenberg_agent_id: '40708'
+    url: http://www.gutenberg.org/2009/agents/40708
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Recitations'
+title: '"Smiles": A Book of Recitations for Girls'
+url: http://www.gutenberg.org/ebooks/40576
